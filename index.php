@@ -15,14 +15,14 @@ echo '</pre>';
  <p> First Name <input type="text" name="FirstName" /></p>
  <p> Last Name <input type="text" name="LastName" /></p>
  <p>Favorite Color </p>
- <p> input type="radio" name="FavoriteColor" value="red" />Red </p>
- <p> input type="radio" name="FavoriteColor" value="blue" />Blue </p>
- <p> input type="radio" name="FavoriteColor" value="yellow" />Yellow </p>
+ <p><input type="radio" name="FavoriteColor" value="red" />Red </p>
+ <p><input type="radio" name="FavoriteColor" value="blue" />Blue </p>
+ <p><input type="radio" name="FavoriteColor" value="yellow" />Yellow </p>
  
  <p>Sundae Toppings </p>
- <p> input type="radio" name="Toppings" value="oreos" />Oreos</p>
- <p> input type="radio" name="Toppings" value="nuts" />Nuts</p>
- <p> input type="radio" name="Toppings" value="m&m" />M&M</p>
+ <p><input type="radio" name="Toppings" value="oreos" />Oreos</p>
+ <p><input type="radio" name="Toppings" value="nuts" />Nuts</p>
+ <p><input type="radio" name="Toppings" value="m&m" />M&M</p>
  <input type="submit" />
  
  </form>
